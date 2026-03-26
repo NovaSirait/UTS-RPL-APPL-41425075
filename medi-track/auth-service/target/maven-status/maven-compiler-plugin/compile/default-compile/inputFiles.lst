@@ -1,0 +1,13 @@
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\config\BeanConfig.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\service\AuthService.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\service\CustomUserDetailsService.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\dto\RegisterRequest.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\dto\LoginRequest.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\service\UserService.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\config\SecurityConfig.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\AuthServiceApplication.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\entity\Role.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\repository\RoleRepository.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\controller\AuthController.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\repository\UserRepository.java
+C:\Users\deank\Downloads\medi-track\auth-service\src\main\java\com\meditrack\auth\entity\User.java

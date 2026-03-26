@@ -1,0 +1,14 @@
+com\meditrack\auth\AuthServiceApplication.class
+com\meditrack\auth\entity\Role$RoleType.class
+com\meditrack\auth\controller\AuthController.class
+com\meditrack\auth\dto\LoginRequest.class
+com\meditrack\auth\service\CustomUserDetailsService.class
+com\meditrack\auth\service\AuthService.class
+com\meditrack\auth\dto\RegisterRequest.class
+com\meditrack\auth\entity\User.class
+com\meditrack\auth\entity\Role.class
+com\meditrack\auth\repository\UserRepository.class
+com\meditrack\auth\service\UserService.class
+com\meditrack\auth\repository\RoleRepository.class
+com\meditrack\auth\config\SecurityConfig.class
+com\meditrack\auth\config\BeanConfig.class

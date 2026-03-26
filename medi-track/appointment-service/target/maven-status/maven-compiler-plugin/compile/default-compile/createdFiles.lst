@@ -1,0 +1,9 @@
+com\meditrack\appointment\dto\AppointmentDTO.class
+com\meditrack\appointment\repository\AppointmentRepository.class
+com\meditrack\appointment\AppointmentApplication.class
+com\meditrack\appointment\entity\Appointment$AppointmentStatus.class
+com\meditrack\appointment\repository\AvailabilityRepository.class
+com\meditrack\appointment\service\AppointmentService.class
+com\meditrack\appointment\controller\AppointmentController.class
+com\meditrack\appointment\entity\Appointment.class
+com\meditrack\appointment\entity\Availability.class

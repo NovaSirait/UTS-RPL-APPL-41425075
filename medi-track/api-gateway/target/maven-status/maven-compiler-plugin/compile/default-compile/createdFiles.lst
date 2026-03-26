@@ -1,0 +1,4 @@
+com\meditrack\gateway\config\SecurityConfig.class
+com\meditrack\gateway\config\RouteConfig.class
+com\meditrack\gateway\GatewayApplication.class
+com\meditrack\gateway\filter\AuthenticationFilter.class
